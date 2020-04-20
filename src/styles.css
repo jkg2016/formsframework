@@ -1,0 +1,21 @@
+.App {
+    font-family: sans-serif;
+  }
+  .formTextField {
+    margin: 10px;
+  }
+  .formTextField label:first-of-type {
+    display: inline-block;
+    margin-right: 10px;
+    width: 100px;
+  }
+  .formTextField label.validationMessage {
+    color: red;
+    margin-left: 10px;
+    font-size: 12px;
+  }
+  .formFotter {
+    margin: 20px;
+    text-align: center;
+  }
+  
